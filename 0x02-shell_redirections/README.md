@@ -16,3 +16,5 @@ a script that displays lines containing the pattern “root” from the file /et
 a script that displays Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 a script that Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 a script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+a script that displays all lines of the file /etc/ssh/sshd_config starting with a letter
+
