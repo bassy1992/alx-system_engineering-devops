@@ -10,3 +10,4 @@ a script that writes into a file ls_cwd_content and the result of the commad ls 
 a script that duplicates the last line of the file iacta
 a script that deletes all the regular files (not the directories) with a .js
 a script that counts the number of directories and sub-directories in the current directory
+a script that displays the 10 newest files in the current directory
