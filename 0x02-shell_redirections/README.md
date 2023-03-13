@@ -9,3 +9,4 @@ a script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:
 a script that writes into a file ls_cwd_content and the result of the commad ls -la
 a script that duplicates the last line of the file iacta
 a script that deletes all the regular files (not the directories) with a .js
+a script that counts the number of directories and sub-directories in the current directory
